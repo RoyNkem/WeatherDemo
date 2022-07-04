@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 6.067,
+        "lat": 6.7569
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 32.21,
+        "feels_like": 33.81,
+        "temp_min": 32.21,
+        "temp_max": 32.21,
+        "pressure": 1008,
+        "humidity": 46,
+        "sea_level": 1008,
+        "grnd_level": 970
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.44,
+        "deg": 106,
+        "gust": 5.48
+    },
+    "clouds": {
+        "all": 81
+    },
+    "dt": 1651246147,
+    "sys": {
+        "country": "NG",
+        "sunrise": 1651209752,
+        "sunset": 1651254206
+    },
+    "timezone": 3600,
+    "id": 2343641,
+    "name": "Ekpoma",
+    "cod": 200
+}
